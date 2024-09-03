@@ -73,3 +73,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+*.meta
+/Assets/HEART REAL PROYECT folder low and med poly
+Packages/com.ptc.vuforia.engine-10.25.4.tgz

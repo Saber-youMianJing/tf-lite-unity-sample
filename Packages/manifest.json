@@ -1,14 +1,15 @@
 {
-  "scopedRegistries": [
-    {
-      "name": "npm",
-      "url": "https://registry.npmjs.com",
-      "scopes": [
-        "com.github.asus4"
-      ]
-    }
-  ],
-  "dependencies": {
+    "scopedRegistries": [
+        {
+            "name": "npm",
+            "url": "https://registry.npmjs.com",
+            "scopes": [
+                "com.github.asus4"
+            ]
+        }
+    ],
+    "dependencies": {
+    "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-10.25.4.tgz",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.5.5",
     "com.github.asus4.texture-source": "0.3.2",
     "com.unity.2d.sprite": "1.0.0",
